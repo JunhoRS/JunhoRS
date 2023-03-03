@@ -1,6 +1,6 @@
 ![https://github.com/JunhoRS](https://www.mygo.ge/uploads/blog/1584023795.jpg)
 
-<!--
+
 **JunhoRS/JunhoRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 👨‍💻I'm currently working on<br>✒️I'm looking for help with<br>📩Ask me or suggest ways to improve<br>👟Also moments of relaxation and thinking<br><br> 
