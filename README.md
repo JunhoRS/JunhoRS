@@ -1,4 +1,4 @@
-![https://github.com/JunhoRS](https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif)
+![https://github.com/JunhoRS](https://media1.tenor.com/images/801ef0f49a0243f2801a24d745c6ffa8/tenor.gif?itemid=27640823)
 
 
 **JunhoRS/JunhoRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
