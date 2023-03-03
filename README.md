@@ -1,7 +1,7 @@
 ![https://github.com/JunhoRS](https://media1.tenor.com/images/801ef0f49a0243f2801a24d745c6ffa8/tenor.gif?itemid=27640823)
 
 # 💫 About Me:
-👨‍💻I'm currently working on<br>✒️I'm looking for help with<br>📩Ask me or suggest ways to improve<br>👟Also moments of relaxation and thinking<br><br> 
+•👨‍💻I'm currently working on<br>•✒️I'm looking for help with<br>•📩Ask me or suggest ways to improve<br>•👟Also moments of relaxation and thinking<br><br> 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/junho-c-ramos-silva-564a11267/) 
 # 💻 Tech Stack:
