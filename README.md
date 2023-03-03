@@ -1,4 +1,4 @@
-![https://github.com/JunhoRS](https://tenor.com/es-US/view/monkey-developer-software-coding-debug-gif-15160023)
+![https://github.com/JunhoRS](https://media.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif)
 
 
 **JunhoRS/JunhoRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
