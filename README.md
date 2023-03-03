@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![https://github.com/JunhoRS](https://www.mygo.ge/uploads/blog/1584023795.jpg)
 
 <!--
