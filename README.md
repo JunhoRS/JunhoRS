@@ -1,5 +1,6 @@
 ![https://github.com/JunhoRS](https://media1.tenor.com/images/801ef0f49a0243f2801a24d745c6ffa8/tenor.gif?itemid=27640823)
-
+---
+[![](https://visitcount.itsvg.in/api?id=JunhoRs&icon=2&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 •👨‍💻I'm currently working on<br>•✒️I'm looking for help with<br>•📩Ask me or suggest ways to improve<br>•👟Also moments of relaxation and thinking<br><br> 
 ## 🌐 Socials:
@@ -14,8 +15,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=JunhoRs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
----
-[![](https://visitcount.itsvg.in/api?id=JunhoRs&icon=2&color=0)](https://visitcount.itsvg.in)
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/JunhoR) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
